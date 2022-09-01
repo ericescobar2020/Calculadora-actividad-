@@ -17,7 +17,9 @@ const resultado2= dividir(3,0);
 console.log(resultado2) 
 ////////////////////////
 
-const accion = process.argv[2];
+const accion = process.argv[2]; 
+// comienza con el [2] por que los dos primeros estan ya ocupados uno por el trabajo practico 
+// el otro por array process.argv[es el array 2]
 
 const num1= parseInt(process.argv[3])
 const num2=parseInt(process.argv[4])
