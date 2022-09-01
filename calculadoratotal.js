@@ -48,4 +48,6 @@ switch(accion ){
           console.log(num1,"/",num2,"=",resultado)
           break;
        }
-    }
+}
+
+// Este es el codigo que usamos para devolver en la terminal:  npm start sumar 23 34 
